@@ -7,9 +7,9 @@
  *
  * Code generation for model "float32tofloat64".
  *
- * Model version              : 1.45
+ * Model version              : 1.47
  * Simulink Coder version : 9.3 (R2020a) 18-Nov-2019
- * C++ source code generated on : Sat Aug  8 09:57:17 2020
+ * C++ source code generated on : Sat Aug  8 10:23:45 2020
  *
  * Target selection: ert.tlc
  * Note: GRT includes extra infrastructure and instrumentation for prototyping

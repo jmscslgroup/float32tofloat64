@@ -74,7 +74,7 @@ int main(int argc, char **argv)
   float32tofloat64_initialize();
 
   /* Call RTOS Initialization function */
-  myRTOSInit(2.0, 0);
+  myRTOSInit(0.0133, 0);
 
   /* Wait for stop semaphore */
   sem_wait(&stopSem);
